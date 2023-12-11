@@ -1,0 +1,49 @@
+body {
+  background: linear-gradient(50deg, rgb(230, 230, 230), rgb(200, 200, 200));
+  color: rgb(50, 50, 50);
+}
+
+header {
+  background-color: rgb(50, 50, 50);
+  color: rgb(230, 230, 230);
+}
+
+header h1 {
+  padding: 10px;
+  margin: 0px;
+}
+
+h2 {
+  font-size: 48px;
+}
+
+header a {
+  text-decoration: none;
+  color: rgb(230, 230, 230);
+}
+
+a {
+  text-decoration: none;
+  color: rgb(50, 50, 50);
+}
+
+ul {
+  padding: 0;
+  width: 800px;
+}
+
+li {
+  list-style: none;
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 25px;
+  border-left: solid;
+  border-width: 20px;
+  padding-left: 10px;
+}
+
+li:hover {
+  background-color: rgb(50, 50, 50);
+  color: rgb(230, 230, 230);
+  border-color: rgb(50, 50, 50);
+}
