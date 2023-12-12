@@ -1,6 +1,7 @@
 body {
-  background: linear-gradient(50deg, rgb(230, 230, 230), rgb(200, 200, 200));
+  background: linear-gradient(270deg, rgb(230, 230, 230), rgb(200, 200, 200));
   color: rgb(50, 50, 50);
+  font-family: 'Roboto', sans-serif;
 }
 
 header {
@@ -11,6 +12,7 @@ header {
 header h1 {
   padding: 10px;
   margin: 0px;
+  font-family: 'Raleway', sans-serif;
 }
 
 h2 {
